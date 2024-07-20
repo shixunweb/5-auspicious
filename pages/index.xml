@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on 吉祥裝潢</title><link>https://shixunweb.github.io/5-auspicious/pages/</link><description>Recent content in Pages on 吉祥裝潢</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><atom:link href="https://shixunweb.github.io/5-auspicious/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>聯絡我們</title><link>https://shixunweb.github.io/5-auspicious/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://shixunweb.github.io/5-auspicious/contact/</guid><description>聯絡吉祥裝潢</description></item><item><title>內容樣式參考</title><link>https://shixunweb.github.io/5-auspicious/elements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://shixunweb.github.io/5-auspicious/elements/</guid><description>目錄 標題 2 標題 3 標題 4 標題 5 強調 按鈕 連結 段落 有序列表 無序列表 注意 標籤 摺疊面板 區塊引用 表格 影像 畫廊 滑桿 Youtube 影片 客製化影片 標題 1 標題 2 標題 3 標題 4 標題 5 標題 6 強調 斜體</description></item><item><title>隱私權政策</title><link>https://shixunweb.github.io/5-auspicious/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://shixunweb.github.io/5-auspicious/privacy-policy/</guid><description>非常歡迎您光臨「吉祥裝潢」（以下簡稱本網站），為了讓您能夠安心的使用本網站的各項服務與資訊，特此向您說明本網站的隱私權保護政策，以保障您的權益，請您詳閱下列內容：</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on 吉祥裝潢</title>
+    <link>https://shixunweb.github.io/5-auspicious/pages/</link>
+    <description>Recent content in Pages on 吉祥裝潢</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <atom:link href="https://shixunweb.github.io/5-auspicious/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>聯絡我們</title>
+      <link>https://shixunweb.github.io/5-auspicious/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shixunweb.github.io/5-auspicious/contact/</guid>
+      <description>聯絡吉祥裝潢</description>
+    </item>
+    <item>
+      <title>內容樣式參考</title>
+      <link>https://shixunweb.github.io/5-auspicious/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shixunweb.github.io/5-auspicious/elements/</guid>
+      <description>目錄 標題 2 標題 3 標題 4 標題 5 強調 按鈕 連結 段落 有序列表 無序列表 注意 標籤 摺疊面板 區塊引用 表格 影像 畫廊 滑桿 Youtube 影片 客製化影片 標題 1 標題 2 標題 3 標題 4 標題 5 標題 6 強調 斜體</description>
+    </item>
+    <item>
+      <title>隱私權政策</title>
+      <link>https://shixunweb.github.io/5-auspicious/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shixunweb.github.io/5-auspicious/privacy-policy/</guid>
+      <description>非常歡迎您光臨「吉祥裝潢」（以下簡稱本網站），為了讓您能夠安心的使用本網站的各項服務與資訊，特此向您說明本網站的隱私權保護政策，以保障您的權益，請您詳閱下列內容：</description>
+    </item>
+  </channel>
+</rss>
